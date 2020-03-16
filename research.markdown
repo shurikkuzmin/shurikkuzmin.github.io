@@ -9,18 +9,18 @@ permalink: /research/
 [Amazon](https://www.amazon.ca/Lattice-Boltzmann-Method-Principles-Practice/dp/3319446479), [Springer](http://www.springer.com/us/book/9783319446479)
 
 ## Papers
-1. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2013) Lattice Boltzmann Study of mass transfer for two-dimensional Bretherton/Taylor bubble train flow. Chemical Engineering Journal. 
-[PDF](research/mass_transfer.pdf)
-2. Mohamad, A.A. and Kuzmin, A. (2012) The Soret effect with the D1Q2 and D2Q4 lattice Boltzmann model. International Journal of Nonlinear Sciences and Numerical Simulations. 13(3-4): 289-293
+1. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2013) Lattice Boltzmann Study of mass transfer for two-dimensional Bretherton/Taylor bubble train flow. Chemical Engineering Journal.<br/> 
+[PDF]({% link research/mass_transfer.pdf %})
+2. Mohamad, A.A. and Kuzmin, A. (2012) The Soret effect with the D1Q2 and D2Q4 lattice Boltzmann model. International Journal of Nonlinear Sciences and Numerical Simulations. 13(3-4): 289-293</br>
 [PDF](research/soretf.pdf)
-3. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Three-dimensional binary-liquid lattice Boltzmann simulation of microchannels with rectangular cross sections. Chemical Engineering Journal. 178: 306-316
+3. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Three-dimensional binary-liquid lattice Boltzmann simulation of microchannels with rectangular cross sections. Chemical Engineering Journal. 178: 306-316<br/>
 [PDF](research/threedbubbles.pdf)
-4. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Simulations of gravity-driven flow of binary liquids in microchannels. Chemical Engineering Journal. 171(2): 646-654
+4. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Simulations of gravity-driven flow of binary liquids in microchannels. Chemical Engineering Journal. 171(2): 646-654<br/>
 [PDF](research/twodbubbles.pdf)
-5. Kuzmin, A., Guo, Z. and Mohamad, A.A. (2011) The simultaneous mass and force terms incorporation in MRT framework for lattice Boltzmann schemes. Philosophical Transactions of the Royal Society A. 369: 2219-2227
+5. Kuzmin, A., Guo, Z. and Mohamad, A.A. (2011) The simultaneous mass and force terms incorporation in MRT framework for lattice Boltzmann schemes. Philosophical Transactions of the Royal Society A. 369: 2219-2227<br/>
 [PDF](research/)
 6. Kuzmin, A., Ginzburg, I. and Mohamad, A.A. (2010) The role of “kinetic” parameter on the stability of two-relaxation-times advection-diffusion Lattice Boltzmann schemes. Computers and Mathematics with Applications. In press: 1-51
-[PDF](research/)
+[PDF](research/)<br/>
 7. Mohamad, A.A. and Kuzmin, A. (2010) A Critical Evaluation of Force term in Lattice Boltzmann Method, Natural Convection problem. International Journal of Heat and Mass Transfer, 53 (5-6): 990-996
 [PDF](research/)
 8. Ginzburg, I., d’Humieres, D. and Kuzmin, A. (2010) Optimal stability of advection-diffusion Lattice Boltzmann models with two relaxation times for positive/negative equilibrium, Journal of Statistical Physics. 139: 1090-1143
