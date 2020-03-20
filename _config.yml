@@ -21,10 +21,10 @@
 title: Make things happen!
 email: shurik.kuzmin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Alexandr Kuzmin is a numerical methods specialist that makes things
+  Alex Kuzmin is a numerical methods specialist that makes things
   happen. Equipped with a vast number of tools, algorithms and visualization
   techniques, Alex enjoys solving hard engineering and scientific problems.  
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

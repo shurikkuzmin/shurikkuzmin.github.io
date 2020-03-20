@@ -10,4 +10,4 @@ Currently I’m working as a Turbomachinery Team Lead at Maya Heat Transfer Tech
 
 I consider myself as a numerical methods specialist with a vast variety of tools in algorithms, visualization to simulate engineering and physics phenomena. I design, consult, plan and execute the development of scientific software. Through years I was involved in all possible aspects of development and design, including linear solvers, parallelization, performance improvements, etc
 
-More details are available at my [LinkedIN](https://www.linkedin.com/in/alexandr-kuzmin-09364b7/) profile. If you are interested to talk to, please write me at shurik.kuzmin@gmail.com
+More details are available at my [LinkedIn](https://www.linkedin.com/in/alexandr-kuzmin-09364b7/) profile. If you are interested to talk to, please write me at shurik.kuzmin@gmail.com

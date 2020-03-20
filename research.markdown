@@ -10,11 +10,11 @@ permalink: /research/
 
 ## Papers
 1. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2013) Lattice Boltzmann Study of mass transfer for two-dimensional Bretherton/Taylor bubble train flow. Chemical Engineering Journal.<br/> 
-[PDF]({% link research/mass_transfer.pdf %})
+[PDF]({% link "papers/mass_transfer.pdf" %})
 2. Mohamad, A.A. and Kuzmin, A. (2012) The Soret effect with the D1Q2 and D2Q4 lattice Boltzmann model. International Journal of Nonlinear Sciences and Numerical Simulations. 13(3-4): 289-293</br>
-[PDF](research/soretf.pdf)
+[PDF]({% link "papers/soretf.pdf" %})
 3. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Three-dimensional binary-liquid lattice Boltzmann simulation of microchannels with rectangular cross sections. Chemical Engineering Journal. 178: 306-316<br/>
-[PDF](research/threedbubbles.pdf)
+[PDF]({% link "papers/threedbubbles.pdf" %})
 4. Kuzmin, A., Januszewski, M., Eskin, D., Mostowfi, F. and Derksen, J.J. (2011) Simulations of gravity-driven flow of binary liquids in microchannels. Chemical Engineering Journal. 171(2): 646-654<br/>
 [PDF](research/twodbubbles.pdf)
 5. Kuzmin, A., Guo, Z. and Mohamad, A.A. (2011) The simultaneous mass and force terms incorporation in MRT framework for lattice Boltzmann schemes. Philosophical Transactions of the Royal Society A. 369: 2219-2227<br/>
