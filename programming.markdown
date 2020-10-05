@@ -9,10 +9,11 @@ permalink: /programming/
 ### Intro
 1. [Setting up the Python environment with Anaconda and Pygame]( https://www.youtube.com/watch?v=4NH6UitQrtk )
 2. [Spyder, Interactive Python (ipython), "Hello, world!" example]( https://youtu.be/9-atTbLDQQ8 )
-3. Loops 
-4. Arrays
-4. Intro to pygame 
-5. Reading files
+3. [Variables, Types of Variables and their conversion]( https://youtu.be/sQZixy3oKmQ )
+4. Loops 
+5. Arrays
+6. Intro to pygame 
+7. Reading files
 
 ### Entry level exercises
 1. Guess the number
@@ -20,6 +21,12 @@ permalink: /programming/
 3. Fibonacci series
 4. Ceasar cypher and decoding it
 5. Chinese calendar 
+
+### More difficult projects
+1. Tiles
+2. Snake
+3. Tetris
+4. Physics Engine
 
 ## Source Code
 ### Larger Pygame Python Projects
