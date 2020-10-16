@@ -10,10 +10,11 @@ permalink: /programming/
 1. [Setting up the Python environment with Anaconda and Pygame]( https://www.youtube.com/watch?v=4NH6UitQrtk )
 2. [Spyder, Interactive Python (ipython), "Hello, world!" example]( https://youtu.be/9-atTbLDQQ8 )
 3. [Variables, Types of Variables and their conversion]( https://youtu.be/sQZixy3oKmQ )
-4. Loops 
-5. Arrays
-6. Intro to pygame 
-7. Reading files
+4. [If statements (else, elif). Input from the keyboard. Example of age ranging]( )
+5. Loops 
+6. Arrays
+7. Intro to pygame 
+8. Reading files
 
 ### Entry level exercises
 1. Guess the number
