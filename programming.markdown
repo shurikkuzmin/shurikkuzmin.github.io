@@ -27,7 +27,8 @@ permalink: /programming/
 1. Tiles
 2. Snake
 3. Tetris
-4. Physics Engine
+4. Flappy Bird
+5. Battleship
 
 ## Source Code
 ### Larger Pygame Python Projects
@@ -36,4 +37,5 @@ permalink: /programming/
 3. [Ray Tracing with Distance Function](https://github.com/shurikkuzmin/RayTracingDistance)
 4. [Ray Tracing](https://github.com/shurikkuzmin/RayTracing)
 5. [Ballistics](https://github.com/shurikkuzmin/Ballistics)
-6. [Google Chrome Dinosaur]( https://github.com/shurikkuzmin/ProgrammingCourse2018 )
+6. [Google Chrome Dinosaur](https://github.com/shurikkuzmin/ProgrammingCourse2018)
+7. [Physics Engine](https://github.com/shurikkuzmin/PhysicsEngine)
