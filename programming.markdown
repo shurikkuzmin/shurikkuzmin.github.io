@@ -38,4 +38,4 @@ permalink: /programming/
 4. [Ray Tracing](https://github.com/shurikkuzmin/RayTracing)
 5. [Ballistics](https://github.com/shurikkuzmin/Ballistics)
 6. [Google Chrome Dinosaur](https://github.com/shurikkuzmin/ProgrammingCourse2018)
-7. [Physics Engine](https://github.com/shurikkuzmin/PhysicsEngine)
+7. [Physics Engine](https://github.com/shurikkuzmin/PhysicsEngine2D)
