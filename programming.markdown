@@ -21,14 +21,23 @@ permalink: /programming/
 2. Rock, scissors and paper
 3. Fibonacci series
 4. Ceasar cypher and decoding it
-5. Chinese calendar 
+5. Chinese calendar
+6. Hangman
+7. Palindrom check
+8. [Fractals](https://github.com/shurikkuzmin/Fractals)
 
 ### More difficult projects
 1. Tiles
-2. Snake
+2. [Snake](https://github.com/shurikkuzmin/Snake)
 3. Tetris
-4. Flappy Bird
-5. Battleship
+4. [Flappy Bird](https://github.com/shurikkuzmin/FlappyBird)
+5. [Battleship](https://github.com/shurikkuzmin/Battleship)
+6. Calculator
+7. Chat bot
+8. Chess
+9. Chat app
+10. Ping-pong
+11. [Angry Birds](https://github.com/shurikkuzmin/AngryBirds)
 
 ## Source Code
 ### Larger Pygame Python Projects
